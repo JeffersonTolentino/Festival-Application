@@ -1,0 +1,772 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="SetList.xsl" type="text/xsl"?>
+
+<setlist>
+	<band id="b1"> 
+		<band_name> Green Day </band_name>
+		<stage>Main Stage</stage>
+		<time_slot>20.00</time_slot>
+		<track_list>
+			<track number="one"> 
+				<title> 99 Revolutions </title>
+				<duration> 3:49 </duration>
+				<album> ¡Tré! </album>
+			</track> 
+			<track number="two">
+				<title> Know Your Enemy </title>
+				<duration> 3:11 </duration>
+				<album> 21st Century Breakdown </album>
+			</track>
+			<track number="three">
+				<title> East Jesus Nowhere </title>
+				<duration> 4:35 </duration>
+				<album> 21st Century Breakdown</album>
+			</track>
+			<track number="four">
+				<title> Holiday </title>
+				<duration> 4:42 </duration>
+				<album> American Idiot </album>
+			</track>
+			<track number="five">
+				<title> Boulevard Of Broken Dreams </title>
+				<duration> 4:20 </duration>
+				<album> American Idiot </album>
+			</track>
+			<track number="six">
+				<title> Basket Case </title>
+				<duration> 3:13 </duration>
+				<album> Dookie </album>
+			</track>
+			<track number="seven">
+				<title> When I come around </title>
+				<duration> 2:54 </duration>
+				<album> Dookie </album>
+			</track>
+			<track number="eight">
+				<title> Wake Me Up When September Ends </title>
+				<duration> 4:45 </duration>
+				<album> American Idiot </album>
+			</track>
+			<track number="nine">
+				<title> 21 Guns </title>
+				<duration> 5:32 </duration>
+				<album> 21st Century Breakdown </album>
+			</track>
+			<track number="ten">
+				<title> Stray Heart </title>
+				<duration> 3:54 </duration>
+				<album> ¡Dos! </album>
+			</track>
+			<track number="eleven">
+				<title> Waiting </title>
+				<duration> 3:13 </duration>
+				<album> Warning </album>
+			</track>
+			<track number="twelve">
+				<title> Static Age </title>
+				<duration> 4:16 </duration>
+				<album> 21st Century Breakdown </album>
+			</track>
+			<track number="thirteen">
+				<title> Oh Love</title>
+				<duration> 5:01 </duration>
+				<album> ¡Uno! </album>
+			</track>
+			<track number="fourteen">
+				<title> King For A Day </title>
+				<duration> 3:13 </duration>
+				<album> 21st Century Breakdown </album>
+			</track>
+			<track number="fifteen">
+				<title> Shout Cover </title>
+				<duration> 3:56 </duration>
+				<album> The Isley Brothers </album>
+			</track>
+			<track number="sixteen">
+				<title> Minority </title>
+				<duration> 2:49 </duration>
+				<album> Warning </album>
+			</track>
+			<track number="seventeen">
+				<title> Good Riddance (Time of Your Life)</title>
+				<duration> 2:35 </duration>
+				<album> Nimrod</album>
+			</track>
+		</track_list>
+	</band>
+	<band id="b2">
+		<band_name> KORN </band_name>
+		<stage>Metal Stage</stage>
+		<time_slot>17.00</time_slot>
+		<track_list>
+			<track number="one">
+				<title> Blind </title>
+				<duration> 4:19</duration>
+				<album> Korn </album>
+			</track>
+			<track number="two">
+				<title> Twist </title>
+				<duration> 0:49 </duration>
+				<album> Life is Peachy </album>
+			</track>
+			<track number="three">
+				<title> Chi </title>
+				<duration> 3:54 </duration>
+				<album> Life is Peachy </album>
+			</track>
+			<track number="four">
+				<title> Falling Away From Me </title>
+				<duration> 4:29</duration>
+				<album> Issues</album>
+			</track>
+			<track number="five">
+				<title> Dead Bodies Everywhere </title>
+				<duration> 4:45</duration>
+				<album> Follow the Leader </album>
+			</track>
+			<track number="six">
+				<title> Twisted Transistors</title>
+				<duration> 4:12 </duration>
+				<album> See You on the Other Side </album>
+			</track>
+			<track number="seven">
+				<title> Coming Undone </title>
+				<duration> 3:19 </duration>
+				<album> See You on the Other Side </album>
+			</track>
+			<track number="eight">
+				<title> Did My Time </title>
+				<duration> 4:00 </duration>
+				<album> Take a Look in the Mirror</album>
+			</track>
+			<track number="nine">
+				<title> Somebody  Someone </title>
+				<duration> 3:54 </duration>
+				<album> Issues </album>
+			</track>
+			<track number="ten">
+				<title> Freak on a Leash</title>
+				<duration> 4:15 </duration>
+				<album> Follow the Leader </album>
+			</track>
+			<track number="eleven">
+				<title> Here to Stay</title>
+				<duration> 5:05 </duration>
+				<album> Untouchables</album>
+			</track>
+			<track number="twelve">
+				<title> Got The Life </title>
+				<duration> 4:06 </duration>
+				<album> Follow the Leader </album>
+			</track>
+			<track number="thirteen">
+				<title> Cannibal </title>
+				<duration> 3:15</duration>
+				<album> Kill the Noise </album>
+			</track>
+			<track number="fourteen">
+				<title> Another Brick in the Wall</title>
+				<duration> 7:10 </duration>
+				<album> Greatest hits vol 1</album>
+			</track>
+			<track number="fifteen">
+				<title> Y&apos;all Want a Single</title>
+				<duration> 3:18</duration>
+				<album> Take a Look in the Mirror</album>
+			</track>
+			<track number="sixteen">
+				<title> Word up </title>
+				<duration> 2:46 </duration>
+				<album> Cameo (cover)</album>
+			</track>
+			<track number="seventeen">
+				<title> Evolution </title>
+				<duration> 3:37</duration>
+				<album> Untitle Korn album</album>
+			</track>
+			
+		</track_list>
+	</band>
+	<band id="b3">
+		<band_name> Asian Kung-fu Generation</band_name>
+		<stage>Alternative Stage</stage>
+		<time_slot>19.00</time_slot>
+		<track_list>
+			<track number="one">
+				<title> Haruka Kanata (Far And Beyond) </title>
+				<duration> 4:02 </duration>
+				<album> Sol Fa </album>
+			</track>
+			<track number="two">
+				<title> Rewrite </title>
+				<duration> 3:47 </duration>
+				<album> Sol Fa</album>
+			</track>
+			<track number="three">
+				<title> Siren </title>
+				<duration> 4:28 </duration>
+				<album> Sol Fa </album>
+			</track>
+			<track number="four">
+				<title> Goodbye Lost Generation </title>
+				<duration> 5:19 </duration>
+				<album> Magic Disk</album>
+			</track>
+			<track number="five">
+				<title>  Flashback </title>
+				<duration> 1:58</duration>
+				<album> Kimi Tsunagi Five M</album>
+			</track>
+			<track number="six">
+				<title> No Name  </title>
+				<duration> 5:00 </duration>
+				<album> Kimi Tsunagi Five M</album>
+			</track>
+			<track number="seven">
+				<title>  Neoteny</title>
+				<duration> 4:43 </duration>
+				<album> World World World</album>
+			</track>
+			<track number="eight">
+				<title> 1980 </title>
+				<duration>3:36 </duration>
+				<album> Landmark</album>
+			</track>
+			<track number="nine">
+				<title> After Dark </title>
+				<duration> 3:15</duration>
+				<album> Landmark</album>
+			</track>
+			<track number="ten">
+				<title> Butterfly </title>
+				<duration>4:44 </duration>
+				<album> Fanclub</album>
+			</track>
+			<track number="eleven">
+				<title> Blue Train </title>
+				<duration> 4:19</duration>
+				<album> Fanclub</album>
+			</track>
+		</track_list>
+	</band>
+
+	<!-- Nathan bands add any numbers of songs-->
+	<band id="b4">
+		<band_name>Tame Impala</band_name>
+		<stage>Main Stage </stage>
+		<time_slot>22.00</time_slot>
+		<track_list>
+			<track number="one">
+				<title> Be Above It </title>
+				<duration>3:02 </duration>
+				<album>Lonerism </album>
+			</track>
+			<track number="two">
+				<title>Solitude Is Bliss  </title>
+				<duration>4:00 </duration>
+				<album>Innerspeaker </album>
+			</track>
+			<track number="three">
+				<title> Elephant </title>
+				<duration>3:22 </duration>
+				<album> Lonerism</album>
+			</track>
+			<track number="four">
+				<title> Endors Toi </title>
+				<duration>3:22 </duration>
+				<album> Lonerism</album>
+			</track>
+			<track number="five">
+				<title> Alter Ego </title>
+				<duration>4:22 </duration>
+				<album> Innerspeaker</album>
+			</track>
+			<track number="six">
+				<title> Feels Like We Only Go Backwards </title>
+				<duration>3:21 </duration>
+				<album> Lonerism</album>
+			</track>
+			<track number="seven">
+				<title> Apocalypse Dreams </title>
+				<duration>3:52 </duration>
+				<album> Lonerism</album>
+			</track>
+			<track number="eight">
+				<title> Mind Mischief </title>
+				<duration>4:15 </duration>
+				<album> Lonerism</album>
+			</track>
+			<track number="nine">
+				<title> Why Won't You Make Up Your Mind ? </title>
+				<duration>3:52 </duration>
+				<album> Lonerism</album>
+			</track>
+			<track number="ten">
+				<title> I Don't Mind </title>
+				<duration>2:42 </duration>
+				<album> Innerspeaker</album>
+			</track>
+			<track number="eleven">
+				<title> Desire Be, Desire Go </title>
+				<duration>3:42 </duration>
+				<album> Innerspeaker</album>
+			</track>
+			<track number="twelve">
+				<title> The Bold Arrow Of Time </title>
+				<duration>6:42 </duration>
+				<album> Innerspeaker</album>
+			</track>
+		</track_list>
+	</band>
+	<band id="b5">
+		<band_name>Foo Fighters</band_name>
+		<stage>Main Stage</stage>
+		<time_slot>22.00</time_slot>
+		<track_list>
+			<track number="one">
+				<title> All My Life  </title>
+				<duration>4:00 </duration>
+				<album>One by One </album>
+			</track>
+			<track number="two">
+				<title> The Pretender  </title>
+				<duration>5:00 </duration>
+				<album>Echoes, Silence, Patience and Grace </album>
+			</track>
+			<track number="three">
+				<title>  Learn to Fly</title>
+				<duration> 3:22</duration>
+				<album>One by One </album>
+			</track>
+			<track number="four">
+				<title> White Limo </title>
+				<duration>4:00 </duration>
+				<album> Wasting Light</album>
+			</track>
+			<track number="five">
+				<title> Arlandria </title>
+				<duration>4:22 </duration>
+				<album> Wasting Light</album>
+			</track>
+			<track number="six">
+				<title> Cold Day in the Sun </title>
+				<duration>2:22 </duration>
+				<album> In Your Honour</album>
+			</track>
+			<track number="seven">
+				<title> Walk </title>
+				<duration>5:02 </duration>
+				<album>Wasting Light </album>
+			</track>
+			<track number="eight">
+				<title> Long Road to Ruin </title>
+				<duration>4:00 </duration>
+				<album>Echoes, Silence, Patience and Grace </album>
+			</track>
+			<track number="nine">
+				<title> My Hero </title>
+				<duration>4:00 </duration>
+				<album>Foo Fighters </album>
+			</track>
+			<track number="ten">
+				<title> Something from Nothing </title>
+				<duration>4:50 </duration>
+				<album>Sonic Highways</album>
+			</track>
+			<track number="eleven">
+				<title> Everlong </title>
+				<duration>5:00 </duration>
+				<album>The Colour and the Shape  </album>
+			</track>
+			<track number="twelve">
+				<title> Best Of You </title>
+				<duration>5:00 </duration>
+				<album>In Your Honour </album>
+			</track>
+			<track number="thirteen">
+				<title> Resolve </title>
+				<duration>5:20 </duration>
+				<album>In Your Honour  </album>
+			</track>
+			<track number="fourteen">
+				<title> DOA </title>
+				<duration>5:36 </duration>
+				<album>In Your Honour  </album>
+			</track>
+		</track_list>
+	</band>
+	<band id="b6">
+		<band_name>Arctic Monkeys</band_name>
+		<stage> Alternative Stage</stage>
+		<time_slot> 19.00</time_slot>
+		<track_list>
+			<track number="one">
+				<title>  Do I Wanna Know ?</title>
+				<duration> 4:00</duration>
+				<album> AM</album>
+			</track>
+			<track number="two">
+				<title>Snap Out Of It  </title>
+				<duration> 3:33</duration>
+				<album>AM </album>
+			</track>
+			<track number="three">
+				<title> One For The Road </title>
+				<duration> 4:11</duration>
+				<album>AM </album>
+			</track>
+			<track number="four">
+				<title>  Brianstorm</title>
+				<duration> 2:22</duration>
+				<album> Favourite Worst Nightmare</album>
+			</track>
+			<track number="five">
+				<title>505  </title>
+				<duration> 4:33</duration>
+				<album>Favourite Worst Nightmare </album>
+			</track>
+			<track number="six">
+				<title> I Bet you look good on the Dancefloor </title>
+				<duration> 3:11</duration>
+				<album> Favourite Worst Nightmare</album>
+			</track>
+			<track number="seven">
+				<title> I Wanna Be Yours </title>
+				<duration>5:00 </duration>
+				<album>AM </album>
+			</track>
+			<track number="eight">
+				<title> Library Pictures </title>
+				<duration> 4:00</duration>
+				<album> Arctic Monkeys</album>
+			</track>
+			<track number="nine">
+				<title>All My Own Stunts  </title>
+				<duration> 3:11</duration>
+				<album>Arctic Monkeys </album>
+			</track>
+			<track number="ten">
+				<title> R U Mine?  </title>
+				<duration>3:01 </duration>
+				<album>AM </album>
+			</track>
+			<track number="eleven">
+				<title> Crying Lightning  </title>
+				<duration>3:11 </duration>
+				<album>Humbug </album>
+			</track>
+			<track number="twelve">
+				<title> Cornerstone  </title>
+				<duration>4:21 </duration>
+				<album>Humbug </album>
+			</track>
+		</track_list>
+	</band>
+	<band id="b7">
+		<band_name>Hozier</band_name>
+		<stage>Main Stage</stage>
+		<time_slot>22.00</time_slot>
+		<track_list>
+			<track number="one">
+				<title> Like Real People Do </title>
+				<duration>3:00 </duration>
+				<album>Hozier </album>
+			</track>
+			<track number="two">
+				<title> Jackie and Wilso </title>
+				<duration>3:22 </duration>
+				<album> Hozier</album>
+			</track>
+			<track number="three">
+				<title> To Be Alone </title>
+				<duration>4:00 </duration>
+				<album> Hozier</album>
+			</track>
+			<track number="four">
+				<title> Someone New </title>
+				<duration> 5:00</duration>
+				<album> Hozier</album>
+			</track>
+			<track number="five">
+				<title>It Will Come Back  </title>
+				<duration>3:22 </duration>
+				<album> Hozier</album>
+			</track>
+			<track number="six">
+				<title> Cherry Wine </title>
+				<duration> 3:21</duration>
+				<album>Hozier </album>
+			</track>
+			<track number="seven">
+				<title> Work Song </title>
+				<duration>2:33 </duration>
+				<album> Hozier</album>
+			</track>
+			<track number="eight">
+				<title> Sedated </title>
+				<duration>4:33 </duration>
+				<album>Hozier </album>
+			</track>
+			<track number="nine">
+				<title> From Eden </title>
+				<duration>4:03 </duration>
+				<album>Hozier </album>
+			</track>
+			<track number="ten">
+				<title> Take Me To Church </title>
+				<duration> 5:33</duration>
+				<album> Hozier</album>
+			</track>
+		</track_list>
+	</band>
+		<!-- Keith bands add any numbers of songs-->
+	<band id="b8">
+		<band_name>Bullet For My Valentine</band_name>
+		<stage> Metal Stage</stage>
+		<time_slot>17.00 </time_slot>
+		<track_list>
+			<track number="one">
+				<title> Scream Aim Fire  </title>
+				<duration> 4:00 </duration>
+				<album> Scream Aim Fire </album>
+			</track>
+			<track number="two">
+				<title> All these things I hate (Revolve Around Me)  </title>
+				<duration> 3:50 </duration>
+				<album> The Poison </album>
+			</track>
+			<track number="three">
+				<title> Bittersweet Memories  </title>
+				<duration> 5:00 </duration>
+				<album> Fever </album>
+			</track>
+			<track number="four">
+				<title> 4 Words (To Choke Upon) </title>
+				<duration> 3:50 </duration>
+				<album> The poison </album>
+			</track>
+			<track number="five">
+				<title> Hearts burst into Fire </title>
+				<duration> 4:90</duration>
+				<album> Scream Aim Fire </album>
+			</track>
+			<track number="six">
+				<title> Waking the Demon </title>
+				<duration> 4:10 </duration>
+				<album> Scream Aim Fire </album>
+			</track>
+			<track number="seven">
+				<title> Your betrayal </title>
+				<duration> 4:50 </duration>
+				<album> Fever </album>
+			</track>
+			<track number="eight">
+				<title> Hand of Blood </title>
+				<duration> 3:30	 </duration>
+				<album> The Poison </album>
+			</track>
+			<track number="nine">
+				<title> Hand of Blood </title>
+				<duration> 3:30	 </duration>
+				<album> The Poison </album>
+			</track>
+			<track number="ten">
+				<title> The Last Fight </title>
+				<duration> 4:20	 </duration>
+				<album> Fever </album>
+			</track>
+		</track_list>
+	</band>
+	<band id="b9">
+		<band_name>Thirty Seconds to Mars</band_name>
+		<stage>Alternative Stage </stage>
+		<time_slot> 19.00</time_slot>
+		<track_list>
+			<track number="one">
+				<title> From Yesterday  </title>
+				<duration> 4:10 </duration>
+				<album> A Beautiful Lie </album>
+			</track>
+			<track number="two">
+				<title> A Beautiful Lie  </title>
+				<duration> 5:40 </duration>
+				<album> A Beautiful Lie </album>
+			</track>
+			<track number="three">
+				<title> The Kill </title>
+				<duration> 4:20 </duration>
+				<album> The Kill </album>
+			</track>
+			<track number="four">
+				<title> This is War </title>
+				<duration> 5:15 </duration>
+				<album> This is War </album>
+			</track>
+			<track number="five">
+				<title> Closer to the Edge </title>
+				<duration> 5:50 </duration>
+				<album> This is War </album>
+			</track>
+			<track number="six">
+				<title> Conquistador </title>
+				<duration> 3:10 </duration>
+				<album> Love, Lust, Faith and Dreams </album>
+			</track>
+			<track number="seven">
+				<title> Do or Die </title>
+				<duration> 4:50 </duration>
+				<album> Love, Lust, Faith and Dreams </album>
+			</track>
+			<track number="eight">
+				<title> ATTACK </title>
+				<duration> 3:05 </duration>
+				<album> A Beautiful Lie </album>
+			</track>
+			<track number="nine">
+				<title> Capricorn </title>
+				<duration> 4:00 </duration>
+				<album> 30 Seconds to Mars </album>
+			</track>
+			<track number="ten">
+				<title> Edge of the Earth </title>
+				<duration> 4:15 </duration>
+				<album> 30 Seconds to Mars </album>
+			</track>
+		</track_list>
+	</band>	
+
+	<band id="b10">
+		<band_name>My Chemical Romance</band_name>
+		<stage>Alternative Stage </stage>
+		<time_slot> 17.00</time_slot>
+		<track_list>
+			<track number="one">
+				<title> House of Wolves  </title>
+				<duration> 5:20 </duration>
+				<album> The Black Parade </album>
+			</track>
+			<track number="two">
+				<title> The Sharpest Lives  </title>
+				<duration> 3:16 </duration>
+				<album> The Black Parade </album>
+			</track>
+			<track number="three">
+				<title> Famous Last Words </title>
+				<duration> 4:50 </duration>
+				<album> The Black Parade </album>
+			</track>
+			<track number="four">
+				<title> I'm Not Okay (I Promise) </title>
+				<duration> 3:10 </duration>
+				<album> Three Cheers for Sweet Revenge </album>
+			</track>
+			<track number="five">
+				<title> Helena </title>
+				<duration> 3:25 </duration>
+				<album> Three Cheers for Sweet Revenge </album>
+			</track>
+			<track number="six">
+				<title> Dead </title>
+				<duration> 3:10 </duration>
+				<album> The Black Parade </album>
+			</track>
+			<track number="seven">
+				<title> Welcome to the Black Parade </title>
+				<duration> 5:20 </duration>
+				<album> The Black Parade </album>
+			</track>
+			<track number="eight">
+				<title> Na Na Na </title>
+				<duration> 3:45 </duration>
+				<album> Danger Days: The True Lives of the Fabulous Killjoys </album>
+			</track>
+			<track number="nine">
+				<title> The Ghost of You </title>
+				<duration> 3:24 </duration>
+				<album> Three Cheers for Sweet Revenge </album>
+			</track>
+			<track number="ten">
+				<title> The Light Behind Your Eyes </title>
+				<duration> 3:24 </duration>
+				<album> Conventional Weapons </album>
+			</track>
+			<track number="eleven">
+				<title> I don't love you </title>
+				<duration> 5:05 </duration>
+				<album> The Black Parade </album>
+			</track>
+			<track number="twelve">
+				<title> Cancer </title>
+				<duration> 2:20 </duration>
+				<album> The Black Parade </album>
+			</track>
+			<track number="thirteen">
+				<title> Vampires will never hurt you </title>
+				<duration> 5:30 </duration>
+				<album> I Brought You My Bullets, You Brought Me Your Love </album>
+			</track>
+			<track number="fourteen">
+				<title> Honey, This mirror isn't big enough for the two of us </title>
+				<duration> 3:40 </duration>
+				<album> I Brought You My Bullets, You Brought Me Your Love </album>
+			</track>
+			<track number="fifteen">
+				<title> Disenchanted </title>
+				<duration> 4:50 </duration>
+				<album> The Black Parade </album>
+			</track>
+			<track number="sixteen">
+				<title> Mama </title>
+				<duration> 4:35 </duration>
+				<album> The Black Parade </album>
+			</track>
+			<track number="seventeen">
+				<title> This is how I Disappear </title>
+				<duration> 4:35 </duration>
+				<album> The Black Parade </album>
+			</track>
+			<track number="eighteen">
+				<title> Heaven Help Us </title>
+				<duration> 4:35 </duration>
+				<album> The Black Parade </album>
+			</track>
+			<track number="nineteen">
+				<title> Teenagers </title>
+				<duration> 2:51 </duration>
+				<album> The Black Parade </album>
+			</track>
+			<track number="twenty">
+				<title> The World is Ugly </title>
+				<duration> 4:50 </duration>
+				<album> Conventional Weapon </album>
+			</track>
+		</track_list>
+	</band>
+	
+			<!-- Extra code for bands
+	<band>
+		<band_name></band_name>
+		<stage> </stage>
+		<time_slot> </time_slot>
+		<track_list>
+			<track number="">
+				<title>  </title>
+				<duration> </duration>
+				<album> </album>
+			</track>
+			<track number="">
+				<title>  </title>
+				<duration> </duration>
+				<album> </album>
+			</track>
+			<track number="">
+				<title>  </title>
+				<duration> </duration>
+				<album> </album>
+			</track>
+		</track_list>
+	</band>
+
+
+--> 
+</setlist>

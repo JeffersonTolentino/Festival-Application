@@ -1,0 +1,62 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="setlist">
+    <xs:annotation>
+      <xs:documentation><![CDATA[Extra code for bands
+	<band>
+		<band_name></band_name>
+		<stage> </stage>
+		<time_slot> </time_slot>
+		<track_list>
+			<track number="">
+				<title>  </title>
+				<duration> </duration>
+				<album> </album>
+			</track>
+			<track number="">
+				<title>  </title>
+				<duration> </duration>
+				<album> </album>
+			</track>
+			<track number="">
+				<title>  </title>
+				<duration> </duration>
+				<album> </album>
+			</track>
+		</track_list>
+	</band>]]></xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="band" maxOccurs="unbounded" minOccurs="1">
+          <xs:annotation>
+            <xs:documentation>Nathan bands add any numbers of songs Keith bands add any numbers of songs</xs:documentation>
+          </xs:annotation>
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="band_name"/>
+              <xs:element type="xs:string" name="stage"/>
+              <xs:element type="xs:float" name="time_slot"/>
+              <xs:element name="track_list">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="track" maxOccurs="unbounded" minOccurs="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="title"/>
+                          <xs:element type="xs:string" name="duration"/>
+                          <xs:element type="xs:string" name="album"/>
+                        </xs:sequence>
+                        <xs:attribute type="xs:string" name="number" use="optional"/>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:string" name="id" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

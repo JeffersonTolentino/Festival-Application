@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+#hoverdiv 
+{
+position: absolute;
+color: white;
+background-color: black;
+display: none;
+}

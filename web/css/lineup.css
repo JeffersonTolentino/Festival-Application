@@ -1,0 +1,143 @@
+                        * {
+				font-family:Arial, 
+				Helvetica, 
+				sans-serif;
+			}
+                        body {
+                            background-color: black;
+                            
+                        }
+                        
+                        h1 {
+                            color:white;
+                        }
+                        
+			img{
+				width: 200px;
+				height: 150px;
+			}
+
+			#container{
+				height: 1600px;
+				width : 960px;
+				margin-top: 25px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: #413f3b;
+			}
+
+			#m1,#m2,#m3{
+				float: left;
+				background-color: #efefef;
+				margin: 50px;
+				width: 220px;
+				height: 480px;
+				box-shadow: 0px 0px 15px black;
+			}
+
+			#m4{
+				float: left;
+				background-color: #efefef;
+				margin: 50px;
+				margin-left: 370px;
+				width: 220px;
+				height: 445px;
+				box-shadow: 0px 0px 15px black;
+			}
+                    
+                    #mainstageinfo{
+				float: left;
+				background-color: #efefef;
+				
+				margin-left: 230px;
+				width: 550px;
+				height: 270px;
+				box-shadow: 0px 0px 15px black;
+                    
+			}
+                    
+                    #mainstageinfo img{
+				width: 400px;
+				height: 150px;
+                    
+			}
+
+
+			#a1,#a2,#a3{
+				float: left;
+				background-color: #efefef;
+				margin: 50px;
+				width: 220px;
+				height: 480px;
+				box-shadow: 0px 0px 15px black;
+			}
+                    
+                         #altstageinfo{
+				float: left;
+				background-color: #efefef;
+				margin: 50px;
+				margin-left: 230px;
+				width: 550px;
+				height: 370px;
+				box-shadow: 0px 0px 15px black;
+			}
+                    
+                        #altstageinfo img{
+				width: 400px;
+				height: 150px;
+                    
+			}
+
+			#met1,#met2,#met3{
+				float: left;
+				background-color: #efefef;
+				margin: 50px;
+				width: 220px;
+				height: 480px;
+				box-shadow: 0px 0px 15px black;
+			}
+                    
+                        #metstageinfo{
+				float: left;
+				background-color: #efefef;
+				margin: 50px;
+				margin-left: 230px;
+				width: 550px;
+				height: 370px;
+				box-shadow: 0px 0px 15px black;
+			}
+                    
+                    #metstageinfo img{
+				width: 400px;
+				height: 150px;
+                    
+			}
+
+			#stage{
+				width: 900px;
+				float: left;
+				margin: 50px;
+				height: 90px;
+				background-color: #efefef;
+				border: 1px solid black;
+			}
+                    
+        /* Taken from http://www.mountainmarketingsolutions.com/css-image-hover-effects/ on 23/11/14 and adapted */
+                        /*GROW*/
+                        .grow img {
+                          height: 200px;
+                          width: 200px;
+
+                          -webkit-transition: all 1s ease;
+                             -moz-transition: all 1s ease;
+                               -o-transition: all 1s ease;
+                              -ms-transition: all 1s ease;
+                                  transition: all 1s ease;
+                        }
+
+                        .grow img:hover {
+                          width: 220px;
+                          height: 220px;
+                        }
+        /* Taken from http://www.mountainmarketingsolutions.com/css-image-hover-effects/ on 23/11/14 and adapted */
+

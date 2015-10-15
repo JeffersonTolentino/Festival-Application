@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="lineup.xsl" type="text/xsl"?>
+<!-- Nathan Ryan x13448212 BSHC2A  -->
+<lineup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:noNamespaceSchemaLocation='lineupschema.xsd'>
+	<stage>
+		<name>Main Stage</name>
+		<overview>The place to be to see the Headliners !</overview>
+		<capacity type="max">50,000</capacity>
+		<artists>
+			<band id="m1">
+				<details>
+					<name>Tame Impala</name>
+					<genre>Psychedelic Rock</genre>
+					<album>Innerspeaker</album>
+					<image>tameimpala.jpg</image>
+				</details>
+				<performing_info>
+					<day>Friday</day>
+					<time>22.00</time>
+					<duration>2 hours</duration>
+				</performing_info>
+			</band>
+			<band id="m2">
+				<details>
+					<name>Foo Fighters</name>
+					<genre>Rock</genre>
+					<album>Sonic Highways</album>
+					<image>foofighters.jpg</image>
+				</details>
+				<performing_info>
+					<day>Saturday</day>
+					<time>22.00</time>
+					<duration>2.30 hours</duration>
+				</performing_info>
+			</band>
+			<band id="m3">
+				<details>
+					<name>Green Day</name>
+					<genre>Punk Rock</genre>
+					<album>Uno! Dos! Tre!</album>
+					<image>greenday.jpg</image>
+				</details>
+				<performing_info>
+					<day>Sunday</day>
+					<time>20.00</time>
+					<duration>2.30 hours</duration>
+				</performing_info>
+			</band>
+			<band id="m4">
+				<details>
+					<name>Hozier</name>
+					<genre>Indie Rock and Blues</genre>
+					<album>Hozier</album>
+					<image>hozier.jpg</image>
+				</details>
+				<performing_info>
+					<day>Sunday</day>
+					<time>22.00</time>
+					<duration>2 hours</duration>
+				</performing_info>
+			</band>
+		</artists>
+	</stage>
+	<stage>
+		<name>Alternative Stage</name>
+		<overview>A chilled out alternative to the other stages.</overview>
+		<capacity type="max">30,000</capacity>
+		<artists>
+			<band id="a1">
+				<details>
+					<name>Arctic Monkeys</name>
+					<genre>Indie Rock</genre>
+					<album>AM</album>
+					<image>amonkeys.jpg </image>
+				</details>
+				<performing_info>
+					<day>Friday</day>
+					<time>19.00</time>
+					<duration>2.30 hours</duration>
+				</performing_info>
+			</band>
+			<band id="a2">
+				<details>
+					<name>Asian Kung-Fu Generation</name>
+					<genre>Alternative Rock</genre>
+					<album>Landmark</album>
+					<image>kungfu.jpg</image>
+				</details>
+				<performing_info>
+					<day>Saturday</day>
+					<time>19.00</time>
+					<duration>2 hours</duration>
+				</performing_info>
+			</band>
+			<band id="a3">
+				<details>
+					<name>Thirty Seconds to Mars</name>
+					<genre>Alternative Rock</genre>
+					<album>Love, Lust, Faith and Dreams</album>
+					<image>mars.jpg</image>
+				</details>
+				<performing_info>
+					<day>Sunday</day>
+					<time>19.00</time>
+					<duration>2 hours</duration>
+				</performing_info>
+			</band>
+		</artists>
+	</stage>
+	<stage>
+		<name>Metal Stage</name>
+		<overview>For all your ear-shredding music.</overview>
+		<capacity type="max">20,000</capacity>
+		<artists>
+			<band id="met1">
+				<details>
+					<name>KORN</name>
+					<genre>Nu Metal</genre>
+					<album>The Paradigm Shift</album>
+					<image>korn.jpg</image>
+				</details>
+				<performing_info>
+					<day>Friday</day>
+					<time>17.00</time>
+					<duration>2 hours</duration>
+				</performing_info>
+			</band>
+			<band id="met2">
+				<details>
+					<name>Bullet For My Valentine</name>
+					<genre>Metal</genre>
+					<album>Temper Temper</album>
+					<image>bullet.jpg </image>
+				</details>
+				<performing_info>
+					<day>Saturday</day>
+					<time>17.00</time>
+					<duration>1.30 hours</duration>
+				</performing_info>
+			</band>
+			<band id="met3">
+				<details>
+					<name>My Chemical Romance</name>
+					<genre>Metal</genre>
+					<album>Danger Days</album>
+					<image>mcr.jpg</image>
+				</details>
+				<performing_info>
+					<day>Sunday</day>
+					<time>17.00</time>
+					<duration>1.30 hours</duration>
+				</performing_info>
+			</band>
+		</artists>
+	</stage>	
+</lineup>

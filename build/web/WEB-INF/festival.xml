@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="festivalhome.xsl" type="text/xsl"?>
+<!-- Nathan Ryan x13448212 BSHC2A  -->
+<home xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:noNamespaceSchemaLocation='lineupschema.xsd'>
+    <welcome>Here you will find the Links to the other sections of the App !</welcome>
+    
+    
+</home>
+	

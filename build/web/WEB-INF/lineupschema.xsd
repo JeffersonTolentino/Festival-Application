@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Nathan Ryan x13448212 BSHC2A  -->
+<xsd:schema xmlns:xsd='http://www.w3.org/2001/XMLSchema'>
+<xsd:element name="lineup">
+  <xsd:complexType>
+    <xsd:sequence>
+      <xsd:element name="stage" minOccurs="1" maxOccurs="5">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="name" type="xs:string"/>
+            <xsd:element name="overview" type="xs:string"/>
+            <xsd:element name="capacity" type="xs:integer"/>
+            <xsd:element name="artists">
+				<xsd:complexType>
+					<xsd:sequence>
+						<xsd:element name="band" minOccurs="3" maxOccurs="unbounded">
+							<xsd:complexType>
+								<xsd:sequence>
+									<xsd:element name="details" maxOccurs="unbounded">
+										<xsd:complexType>
+											<xsd:sequence>
+												<xsd:element name="name"  type="xs:string"/>
+												<xsd:element name="genre" type="xs:string"/>
+												<xsd:element name="album" type="xs:string"/>
+												<xsd:element name="image" type="xs:string"/>
+											</xsd:sequence>
+										</xsd:complexType>
+									</xsd:element>
+									<xsd:element name="performing_info" maxOccurs="unbounded">
+										<xsd:complexType>
+											<xsd:sequence>
+												<xsd:element name="day"  type="xs:string"/>
+												<xsd:element name="time" type="xs:decimal"/>
+												<xsd:element name="duration" type="xs:string"/>
+											</xsd:sequence>
+										</xsd:complexType>
+									</xsd:element>
+								</xsd:sequence>
+							</xsd:complexType>
+						</xsd:element>
+					</xsd:sequence>
+				</xsd:complexType>
+			</xsd:element>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:element>
+</xsd:schema>

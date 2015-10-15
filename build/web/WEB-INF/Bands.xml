@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Bands.xsl" type="text/xsl"?>
+<?xml-stylesheet href="BandMember.xsl" type="text/xsl"?>
+
+<bandlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:noNamespaceSchemaLocation='BandMemberSchema.xsd'>
+
+
+
+	
+
+	<band id ="m3">
+
+	<name>Green Day</name>
+	<genre> Punk rock </genre>
+	<bandinfo> Green Day is an American punk rock band formed in 1987 by lead vocalist Billie Joe Armstrong and bassist and backing vocalist Mike Dirnt. For much of their career the band has been a trio with drummer TrÃ© Cool and in 2012 Jason White became a full time member after playing as backup vocals and guitar for 13 years. The band was originally named Sweet Children and was part of the punk scene at the DIY 924 Gilman Street club in Barkley California. </bandinfo> 
+	
+		<bandmembers>
+	
+			<member id="1">
+                
+				<name>Billie Joe Armstrong</name>
+			
+				<dob> 17/02/1972 </dob>
+			
+				<origin> Rodeo, California, US</origin>
+			
+				<instrument>Vocals &amp; Guitar </instrument>
+			
+				<details> Billie Joe Armstrong is an American singer, songwriter, guitarist &amp; multi-instrumentalist from Oakland, California. Armstrong is the co-founder and lead vocalist/guitarist of the punk rock band Green Day along with Mike Dirnt.  </details>
+                                
+                                <image>billiejoe.jpg</image>
+	
+			</member>
+			
+			
+			
+			<member id="2">
+		
+				<name>Michael Ryan Pritchard(Mike Dirnt)</name>
+			
+				<dob> 04/05/1972</dob>
+			
+				<origin> Berkeley, California, US</origin>
+			
+				<instrument> Bass </instrument>
+			
+				<details> Mike Dirnt is an American musician best know as the bassist and co-founder of the punk rock band Green Day. His stage name was originally a nickname from his friends at grade school, as he would constantly play &apos;air bass&apos; and make a &apos;dirnt, dirnt, dirnt&apos; noise while pretending to pluck the strings.  </details>
+	
+                                <image>michaelryan.jpg</image>
+			</member>
+			
+			<member id="3">
+		
+				<name>Frank Edwin Wright III (Tre Cool)</name>
+			
+				<dob>09/12/1972</dob>
+			
+				<origin>Willits, California, US</origin>
+			
+				<instrument>Drums</instrument>
+			
+				<details>Frank Edwin Wright III best known as Tre Cool is the drummer of Green Day. He replaced the group&apos;s former drummer John Kiffmeyer in 1990.  </details>
+	
+                                 <image>FrankEd.jpg</image>
+			</member>
+			
+			<member id="4">
+		
+				<name>Jason White</name>
+			
+				<dob> 11/11/1973</dob>
+			
+				<origin> North Little Rock, Arkansas, US </origin>
+			
+				<instrument> Guitar </instrument>
+			
+				<details> Jason White has been turing with the band since 1999 and on 2012 he was officially part of the band. Now he is the lead guitarist of the Punk Rock band Green Day. He is also the guitarist and vocalist for the Californian punk band Pinhead Gunpowder, and co-founder of Adeline Records alongside Billie Joe Armstrong. </details>
+                                 
+                                <image>Jasonwhite.jpg</image>
+			</member>
+
+		</bandmembers>
+	
+	</band>
+	
+	
+	
+	<band id ="met1">
+
+	<name>KORN</name>
+	<genre>  Nu Metal </genre>
+	<bandinfo> Korn is an American nu metal band from Bakerfield, California formed in 1993. The metal band has 5 members:  Jonathan Davis (vocals, bagpipes), James "Munky" Shaffer (guitar), Brian "Head" Welch (guitar, backing vocals), and Reginald "Fieldy" Arvizu (bass), with the addition of Ray Luzier  as the drummer. The band also released a dubstep album featuring Sxrillex</bandinfo> 
+
+	
+		<bandmembers>
+
+			<member id="1">
+		
+				<name>Jonathan Davis</name>
+			
+				<dob> 18/01/1971 </dob>
+			
+				<origin> Bakersfield, California  </origin>
+			
+				<instrument> Vocals &amp; bagpipes</instrument>
+			
+				<details> Jonathan Howsmon Davis is the Vocalist of the American Nu Metal. Jonathan is also known as JD &amp; JDevil.</details>
+	
+                                <image>jondavis.jpeg</image>
+			</member>
+			
+			
+			
+			<member id="2">
+		
+				<name>James Christian Shaffer</name>
+			
+				<dob> 06/06/1970 </dob>
+			
+				<origin> Hollywood, California, US</origin>
+			
+				<instrument> Guitar </instrument>
+			
+				<details> James Christian Shaffer also known as Munky is the guitarist and co-founder of the nu metal band Korn. His nickname is a reference to his feet that resembles a monkey%apos;s hands when spread.  </details>
+				
+                                <image>jamesc.jpg</image>
+			</member>
+			
+			<member id="3">
+		
+				<name>Brian Phillip Welch</name>
+			
+				<dob> 19/06/1970 </dob>
+			
+				<origin> Hollywood, California, US</origin>
+			
+				<instrument> Guitar </instrument>
+			
+				<details> Brian Phillip Welch  better known as Head is one of guitarist and co-founder of the nu metal band Korn. He helped to develop the distinctive sound of the Nu metal band Korn.  He left the band in 2005 when he became a born again Christian and on May 2, 2013 he officially rejoined the band. </details>
+				
+                                <image>brianphil.png</image>
+			</member>
+			
+			<member id="4">
+		
+				<name>Reginald Quincy Arvizu</name>
+			
+				<dob> 02/11/1969</dob>
+			
+				<origin> Los Angeles County, California, US </origin>
+			
+				<instrument> Bass </instrument>
+			
+				<details>  Reginald Quincy "Fieldy" Arvizu is an American musician. He is best known as the bassist for the nu metal band Korn, and guitarist for the hard rock band StillWell. </details>
+				
+                                <image>Regi.jpg</image>
+			</member>
+			
+			<member id="5">
+		
+				<name>Ray Luzier</name>
+			
+				<dob> 14/06/1970 </dob>
+			
+				<origin> Pittsburgh, Pennsylvania, US</origin>
+			
+				<instrument> Drums </instrument>
+			
+				<details> Ray Luzier  is an American drummer. He is the drummer of the nu metal band Korn, becoming a full-time member of the band in April 2009.</details>
+				
+                                <image>raylu.jpg</image>
+			</member>
+
+		</bandmembers>
+	
+	</band>
+	
+	<band id ="a2">
+
+	<name>Asian Kung-Fu Generation</name>
+	<genre> Alternative rock </genre>
+	<bandinfo> Asian Kung-Fu Generation  is a Japanese alternative rock band formed in Yokohama, Japan, in 1996.  The band's musical style is influenced by seminal Western punk and alternative rock acts in conjunction with their own local Japanese indie rock background. </bandinfo>
+	
+		<bandmembers>
+	
+			<member id="1">
+		
+				<name>Masafumi Gotoh</name>
+			
+				<dob> 02/12/1976 </dob>
+			
+				<origin>  Shimada, Japan</origin>
+			
+				<instrument> Vocals &amp; Guitar </instrument>
+			
+				<details> Masafumi Gotoh is the lead vocalist, main songwriter and rhythm guitarist of the Japanese rock band Asian Kung-Fu Generation. He met with fellow band members Kensuke Kita and Takahiro Yamada while attending a music club of Kanto Gakuin University. The three formed Asian Kung-Fu Generation in 1996. Gotoh is the main songwriter of the band but he also has the tendency to share song writing with other band members. </details>
+	
+                                <image>masafumi.jpg</image>
+			</member>
+			
+			
+			
+			<member id="2">
+		
+				<name>Kensuke Kita</name>
+			
+				<dob> 24/01/1977 </dob>
+			
+				<origin> Tokyo, Japan </origin>
+			
+				<instrument> Guitar </instrument>
+			
+				<details> Kensuke Kita is the lead guitarist and backing singer of the Japanese rock band Asian Kung-Fu Generation. Kensuke met fellow band members Masafumi GotÅ� and Takahiro Yamada while attending a music club of Kanto Gakuin University. The three formed Asian Kung-Fu Generation in 1996. He is primarily the lead guitarist of the band.</details>
+	
+                                <image>Kensuke.jpg</image>
+			</member>
+			
+			<member id="3">
+		
+				<name>Takahiro Yamada</name>
+			
+				<dob> 19/08/1977 </dob>
+			
+				<origin> Fujinomiya, Japan </origin>
+			
+				<instrument> Bass </instrument>
+			
+				<details> Takahiro Yamada  is the bass player and backing singer of the Japanese rock band Asian Kung-Fu Generation. Yamada met fellow band members Masafumi GotÅ� and Kensuke Kita while attending a music club of Kanto Gakuin University. The three formed Asian Kung-Fu Generation in 1996. Yamada also provided lyrics for certain songs.  </details>
+	
+                                <image>Takahiro.jpg</image>
+			</member>
+			
+			<member id="4">
+		
+				<name>Kiyoshi Ijichi</name>
+			
+				<dob> 25/09/1977 </dob>
+			
+				<origin> Tokyo, Japan </origin>
+			
+				<instrument> Drummer </instrument>
+			
+				<details> Kiyoshi Ijichi  is the drummer of the Japanese rock band Asian Kung-Fu Generation. Ijichi credits the origin of his drumming ability to playing in marching bands in junior high. He meet up with the other members of the band while attending at kondo gakuin university in 1996 but unlike the other members he had prior band experience from another college.</details>
+	
+                                <image>Kiyosh.jpg</image>
+			</member>
+
+		</bandmembers>
+	
+	</band>
+	
+	<!-- Nathans Bands -->
+	<band id ="m1">
+
+	<name>Tame Impala</name>
+	<genre> Psychedelic Rock </genre>
+	<bandinfo>  Tame Impala are an Australian Psychedelic Rock Band formed in 2007 by Kevin Parker. Parker maninly records the music by himself in the studio and brings the band to tour with him. </bandinfo> 
+	
+		<bandmembers>
+	
+			<member id="1">
+		
+				<name>Kevin Parker</name>
+			
+				<dob> 20/01/1986 </dob>
+			
+				<origin> Perth, Western Australia, Australia</origin>
+			
+				<instrument>Vocals &amp; Guitar </instrument>
+			
+				<details> Kevin Parker is the founder and main creative drive of Tame Impala and he writes and records the majority of the music. </details>
+	
+                                <image>kevinparker.jpg</image>
+			</member>
+			
+			
+			
+			<member id="2">
+		
+				<name>Jay Watson</name>
+			
+				<dob> 27/05/1990</dob>
+			
+				<origin> Fremantle, Western Australia, Australia</origin>
+			
+				<instrument> Keyboard </instrument>
+			
+				<details> Jay Watson is an Australian multi-instrumentalist and psychedelic rock musician, singer, songwriter. He is best known as a member of the bands Tame Impala and Pond, and his solo project Gum.  </details>
+	
+                                <image>jaywat.jpg</image>
+			</member>
+			
+			<member id="3">
+		
+				<name>Dominic Simper</name>
+			
+				<dob> 10/12/1980</dob>
+			
+				<origin> Perth, Western Australia, Australia </origin>
+			
+				<instrument> Bass, Guitar and Synth </instrument>
+			
+				<details> Dominic Simper joined Tame Impala in 2008. He plays Bass, Guitar and Synth in the band.  </details>
+                                
+                                <image>dominic.jpg</image>
+			</member>
+			
+			<member id="4">
+		
+				<name>Julien Barbagallo</name>
+			
+				<dob> 22/03/1979</dob>
+			
+				<origin> Perth, Western Australia, Australia </origin>
+			
+				<instrument> Drums </instrument>
+			
+				<details> Julien Barbagallo joined Tame Impala for their Innerspeaker tour in 2009 and has since become a full member of the band. </details>
+	
+                                <image>Julien.jpg</image>
+			</member>
+
+		</bandmembers>
+	
+	</band>
+	<band id ="m2">
+	
+	<name>Foo Fighters</name>
+	<genre> Rock </genre>
+	<bandinfo>Foo Fighters is an American rock band, formed in Seattle in 1994. It was founded by Nirvana drummer Dave Grohl as a one-man project following the death of Kurt Cobain and the resulting dissolution of his previous band. The group got its name from the UFOs and various aerial phenomena that were reported by Allied aircraft pilots in World War II, which were known collectively as foo fighters. </bandinfo> 
+	
+		<bandmembers>
+	
+			<member id="1">
+		
+				<name>Dave Grohl</name>
+			
+				<dob> 14/01/1969 </dob>
+			
+				<origin> Warren, Ohio, US</origin>
+			
+				<instrument>Vocals &amp; Guitar </instrument>
+			
+				<details> David Eric "Dave" Grohl is an American rock musician, multi-instrumentalist, singer-songwriter, producer, and film director, best known as the lead vocalist, rhythm guitarist, main songwriter and founder of the band Foo Fighters, who first gained recognition and fame as the drummer for the grunge band Nirvana. </details>
+	
+                                <image>dave.jpg</image>
+			</member>
+			
+			
+			
+			<member id="2">
+		
+				<name>Chris Shiflett</name>
+			
+				<dob> 06/05/1971</dob>
+			
+				<origin> Santa Barbara, California, US</origin>
+			
+				<instrument> Lead Guitar </instrument>
+			
+				<details>  Christopher Aubrey "Chris" Shiflett is best known as the lead guitarist for the rock band Foo Fighters since 1999, and the punk rock band No Use for a Name, as well as the punk rock cover band Me First and the Gimme Gimmes.  </details>
+                                
+                                <image>chris.jpg</image>
+			</member>
+			
+			<member id="3">
+		
+				<name>Pat Smear</name>
+			
+				<dob> 05/08/1959</dob>
+			
+				<origin> Los Angeles, California, US </origin>
+			
+				<instrument> Guitar </instrument>
+			
+				<details> Georg Albert Ruthenberg, better known as Pat Smear, is an American guitarist. He is best known as a guitarist in the rock band Foo Fighters, with whom he has recorded three studio albums. Smear was also a founding member of the influential punk band Germs, and was the additional live guitarist for the grunge band Nirvana.  </details>
+	
+                                <image>Patsmear.jpg</image>
+			</member>
+			
+			<member id="4">
+		
+				<name>Taylor Hawkins</name>
+			
+				<dob> 17/02/1972</dob>
+			
+				<origin> Fort Worth, Texas, US </origin>
+			
+				<instrument> Drums </instrument>
+			
+				<details> Oliver Taylor Hawkins is an American musician, best known as the drummer of the rock band Foo Fighters. His cousin, Kevin Harrell, introduced him to Dave Grohl after camping with him for several weeks in the Ozarks. Hawkins would eventually become the drummer for Grohl's band, Foo Fighters. </details>
+	
+                                <image>tayhawk.jpg</image>
+			</member>
+
+		</bandmembers>
+	
+	</band>
+	<band id ="a1">
+	
+	<name>Arctic Monkeys</name>
+	<genre> Alternative Rock </genre>
+	<bandinfo> Arctic Monkeys are an English indie rock band formed in 2002 in High Green, a suburb of Sheffield. </bandinfo> 
+		<bandmembers>
+	
+			<member id="1">
+		
+				<name>Alex Turner</name>
+			
+				<dob> 06/01/1986 </dob>
+			
+				<origin> High Green, Sheffield, England</origin>
+			
+				<instrument>Vocals &amp; Guitar </instrument>
+			
+				<details>  Alexander David "Alex" Turner is an English musician, singer, and songwriter. He is the lead vocalist, guitarist, and principal songwriter of the English rock band Arctic Monkeys. Turner has also recorded with a side-project called The Last Shadow Puppets and as a solo artist. </details>
+                                
+                                <image>alexturner.jpg</image>
+			</member>
+			
+			
+			
+			<member id="2">
+		
+				<name>Jamie Cook</name>
+			
+				<dob> 08/06/1985</dob>
+			
+				<origin> High Green, Sheffield, England</origin>
+			
+				<instrument> Lead Guitar </instrument>
+			
+				<details> Cook is considered to be the "indie music fanatic" of the group. Armed with the likes of musical tastes for bands such as The Smiths, The Strokes, Oasis, and Queens of the Stone Age, Cook supposedly turned the band into what it is today.  </details>
+	
+                                <image>jamiec.jpg</image>
+			</member>
+			
+			<member id="3">
+		
+				<name>Nick O'Malley</name>
+			
+				<dob> 05/06/1985</dob>
+			
+				<origin> High Green, Sheffield, England </origin>
+			
+				<instrument> Bass </instrument>
+			
+				<details> O'Malley was drafted in as a temporary replacement for bassist Andy Nicholson when the latter announced he would not make the band's North America tour in May 2006 and eventually become a full member of the band. </details>
+	
+                                <image>nickm.jpg</image>
+			</member>
+			
+			<member id="4">
+		
+				<name>Matt Helders</name>
+			
+				<dob> 07/05/1986</dob>
+			
+				<origin> High Green, Sheffield, England </origin>
+			
+				<instrument> Drums </instrument>
+			
+				<details> Matthew Helders is an English musician and DJ, best known as the drummer for indie rock band Arctic Monkeys. He is seen as the band's "quietly amiable diplomat." </details>
+	
+                                <image>matth.jpg</image>
+			</member>
+
+		</bandmembers>
+	
+	</band>
+	<band id ="m4">
+	
+	<name>Hozier</name>
+	<genre> Indie Rock and Blues </genre>
+	<bandinfo> Andrew Hozier-Byrne known simply as Hozier, is an Irish musician from Bray, County Wicklow. In 2013 he released his debut EP Take Me to Church and his second EP From Eden in 2014, with his debut studio album Hozier released in Ireland in September 2014 and globally in October 2014. </bandinfo> 
+	
+		<bandmembers>
+	
+			<member id="1">
+		
+				<name>Andrew Hozier-Byrne</name>
+			
+				<dob> 17/03/1990 </dob>
+			
+				<origin> Bray, Wicklow, Ireland</origin>
+			
+				<instrument>Vocals &amp; Guitar </instrument>
+			
+				<details> Hozier was born in Bray, County Wicklow. The son of a musician, he began a degree in music at Trinity College, Dublin, but dropped out midway through his first year in order to record demos for Universal Music. While at Trinity, he became involved with the Trinity Orchestra. </details>
+	
+                                <image>andrewho.jpg</image>
+			</member>
+
+		</bandmembers>
+	
+	</band>
+	
+	
+	
+	<band id ="met2">
+	
+	<name>Bullet for My Valentine</name>
+	<genre> Metal   </genre>
+	<bandinfo> Bullet for My Valentine are a Welsh heavy metal band from Bridgend. They were formed in the year 1998. The band consists of four members; Matthew Tuck, Michael Paget, Jason James and Michael Thomas. Originally the band started off under the name &quot;Jeff Killed John&quot;, starting their career by covering songs by Nirvana and Metallica. Later in their career they changed their name to Bullet for My Valentine.
+	</bandinfo> 
+	
+		<bandmembers>
+	
+			<member id="1">
+		
+				<name>Matthew Tuck</name>
+			
+				<dob> 20/01/1980 </dob>
+			
+				<origin> Bridgend, South Wales </origin>
+			
+				<instrument> Vocals &amp; Guitar </instrument>
+			
+				<details> Matthew &quot;Matt&quot; Tuck is the lead vocalist and rhythm guitarist in the band Bullet for My Valentine. He and the other 3 members of the band founded &quot;Jeff Killed John&quot; in 1998, but after changing the bassist in 2003, the band was renamed to Bullet for My Valentine. Matthew Tuck also plays piano, drums, keyboard and harmonica. </details>
+	
+                                <image>mattuck.jpg</image>
+			</member>
+			
+			
+			
+			<member id="2">
+		
+				<name>Michael Paget</name>
+			
+				<dob> 12/09/1978 </dob>
+			
+				<origin> Bridgend, South wales </origin>
+			
+				<instrument> Guitar &amp; Vocals </instrument>
+			
+				<details> Michael Paget is a welsh musician, singer, songwriter	and guitarist. He is the lead guitarist and backing vocalist for Bullet for My Valentine. Michael Paget has been with the band since the formation in 1998 and has released four albums with the band. He was about seventeen when he started picking up the guitar. </details>
+	
+                                <image>michaelpag.jpg</image>
+			</member>
+
+			<member id="3">
+		
+				<name>Jason James</name>
+			
+				<dob> 13/01/1981 </dob>
+			
+				<origin> Bridgend, South Wales  </origin>
+			
+				<instrument> Vocals &amp; Bass Guitar </instrument>
+			
+				<details> Jason &quot;Jay&quot; James is the bassist and backing vocalist for the band Bullet for My Valentine. He used to be the vocalist and bassist for the band N.U.K.E.  </details>
+	
+                                <image>jasonjames.jpg</image>
+			</member>
+
+			<member id="4">
+		
+				<name>Michael Thomas</name>
+			
+				<dob> 04/06/1981 </dob>
+			
+				<origin> Bridgend, South Wales  </origin>
+			
+				<instrument> Drums </instrument>
+			
+				<details> Michael &quot;Moose&quot; Thomas is the drummer for the band Bullet for My Valentine. Michael Thomas originally started to play guitar but after two years decided to play the drums instead. His main influences are Dave Grohl of Nirvana and Foo Fighters, even saying if it wasn't for him he would't be playing drums.  </details>
+	
+                                <image>michajames.jpg</image>
+			</member>
+
+
+		</bandmembers>
+	
+	</band>
+	
+	<band id ="met3">
+	
+	<name>My Chemical Romance</name>
+	<genre> Alternative Rock </genre>
+	<bandinfo> My Chemical Romance is an American rock band from New Jersey formed in 2001.	The band consists of Gerard Way, Ray Toro, Frank Lero, Mikey Way and James Dewees. The band eclipsed their success with their 2006 concept album &quot;The Black Parade&quot;, gaining many favorable reviews amongst music critics.
+	</bandinfo> 
+	
+		<bandmembers>
+	
+			<member id="1">
+		
+				<name>Gerard Way</name>
+			
+				<dob> 09/04/1977 </dob>
+			
+				<origin> Summit, New Jersey, US </origin>
+			
+				<instrument> Vocals, piano, guitar, bass &amp; keyboard </instrument>
+			
+				<details> Gerard Arthur Way is the lead vocalist and co-founder of the band My Chemical Romance. As a teenager Gerard was influenced by bands such as Iron Maiden, The Misfits, Danzig, Black Flag, Queen and The Smiths. Originally wanting to become a guitarist, he got his first guitar at the age of eight. After being kicked out of bands for his lack of skill on the guitar, he decided to further concentrate on arts instead. It was later on when he decided to give up on arts and started songwriting. </details>
+	
+                                <image>gerardway.jpg</image>
+			</member>
+
+			<member id="2">
+		
+				<name>Ray Toro</name>
+			
+				<dob> 15/06/1977 </dob>
+			
+				<origin> Kearny, New Jersey, United States </origin>
+			
+				<instrument> Vocals, piano, guitar, bass &amp; keyboard </instrument>
+			
+				<details> Raymond &quot;Ray&quot; Toro is the lead guitarist and co-founder of the band My Chemical Romance. Ray picked up guitar when he first inherited a passion for music from his older brother in high school. His brother introduced him to several bands whose guitarists influenced him greatly. </details>
+	
+                                <image>raytoro.jpg</image>
+			</member>
+
+			<member id="3">
+		
+				<name>Frank Iero</name>
+			
+				<dob> 31/10/1981 </dob>
+			
+				<origin> Belleville, New Jersey, United States </origin>
+			
+				<instrument> Vocals, guitar &amp; bass </instrument>
+			
+				<details> Frank Lero is the rhythm guitarist and backup vocalist of the band My Chemical Romance. Frank started playing in local bands on the New Jersey punk scene at the age of eleven. Before joining My Chemical Romance he served as frontman for the punk band Pencey Prep. Whilst playing for Pencey Prep he became friends with Gerard Way and other My Chemical Romance members. After Pencey Prep broke up Frank was eventually offered a slot in My Chemical Romance. </details>
+	
+                                <image>frankle.jpg</image>
+			</member>
+
+			<member id="4">
+		
+				<name>Mikey Way</name>
+			
+				<dob> 10/09/1980 </dob>
+			
+				<origin> Kearny, New Jersey, United States </origin>
+			
+				<instrument> Vocals, guitar &amp; bass </instrument>
+			
+				<details> Mikey way is the brother of Gerard and also the bassist of the band. Growing up he worked in Barnes &amp; Nobles and later Eyeball Records; both which played major parts in the formation of My Chemical Romance.  </details>
+	
+                                <image>mikeyway.jpg</image>
+			</member>
+
+			<member id="5">
+		
+				<name>James Dewees</name>
+			
+				<dob> 13/03/1976 </dob>
+			
+				<origin> Liberty, Missouri </origin>
+			
+				<instrument> Vocals, guitar, piano, drums &amp; bass </instrument>
+			
+				<details> James Dewees is the keyboardist for the band My Chemical Romance. Before joining My Chemical Romance he was part of other bands such as Coalesce. James was kicked out of college for missing too many days while touring with Coalesce.  </details>
+	
+                                <image>jamesde.jpg</image>
+			</member>
+
+</bandmembers>
+
+</band>
+
+	<band id ="a3">
+	
+	<name>Thirty Seconds to Mars</name>
+	<genre> Alternative Rock    </genre>
+	<bandinfo> Thirty Seconds to Mars is an American rock band from Los Angeles, California. The band was formed in 1998 and consists of Jared Leto, Shannon Leto and Tomo Milicevic. The band achieved worldwide fame in 2005 with the release of their album &quot;A Beautiful Lie&quot;. </bandinfo> 
+
+	
+		<bandmembers>
+
+			<member id="1">
+		
+				<name>Jared Leto</name>
+			
+				<dob> 26/12/1971 </dob>
+			
+				<origin> Bossier City, Louisiana, U.S. </origin>
+			
+				<instrument> Vocals, guitar &amp; </instrument>
+			
+				<details> Jared Leto is the lead vocalist, multi-instrumental and main songwriter for the band Thirty Seconds to Mars. Leto is also known to have played many supporting roles in the movie industry such as Fight Club and Urban Legend. </details>
+	
+                                <image>jared.jpg</image>
+			</member>
+			
+			
+			
+			<member id="2">
+		
+				<name>Shannon Leto</name>
+			
+				<dob> 07/03/1970 </dob>
+			
+				<origin> Bossier City, Louisiana, U.S. </origin>
+			
+				<instrument> Drums, guitars &amp; keyboard </instrument>
+			
+				<details> Shannon Leto is the brother of Jared Leto and also the drummer of the band Thirty Seconds to Mars. He co-founded the band in 1988 in Los Angeles with his younger brother Jared. </details>
+				
+                                <image>shannon.jpg</image>
+			</member>
+
+			<member id="3">
+		
+				<name>Tomo Milicevic</name>
+			
+				<dob> 03/09/1979</dob>
+			
+				<origin>  Sarajevo, SR Bosnia and Herzegovina, SFR Yugoslavia </origin>
+			
+				<instrument> Guitar, bass &amp; keyboard </instrument>
+			
+				<details> Tomo Milicevic is the main guitarist of the band Thirty Seconds to Mars. At a young age he wrote his own songs. After discovering heavy metal, Tomo told his father that he wanted a guitar, and so they made one together. The same guitar was used to record the song &quot;A Modern Myth&quot; on the album &quot;A Beautiful Lie&quot;. </details>
+				
+                                <image>tomo.jpg</image>
+			</member>
+
+		</bandmembers>
+	
+	</band>
+
+</bandlist>

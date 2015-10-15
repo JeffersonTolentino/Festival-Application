@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="bandlist">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="band" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="bandname"/>
+              <xs:element type="xs:string" name="genre"/>
+              <xs:element type="xs:string" name="bandinfo"/>
+              <xs:element name="bandmembers">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="member" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="name"/>
+                          <xs:element type="xs:string" name="dob"/>
+                          <xs:element type="xs:string" name="origin"/>
+                          <xs:element type="xs:string" name="instrument"/>
+                          <xs:element type="xs:string" name="details"/>
+                        </xs:sequence>
+                        <xs:attribute type="xs:string" name="id" use="optional"/>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:string" name="id" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
+
+
+

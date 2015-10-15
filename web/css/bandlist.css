@@ -1,0 +1,39 @@
+ * {
+				font-family:Arial, 
+				Helvetica, 
+				sans-serif;
+			}
+
+                        body {background-color: black;
+                        }
+                        h1 {color:white;}
+                        
+			img{
+				width: 200px;
+				height: 150px;
+			}
+
+			#container{
+				height: 135px;
+				width : 960px;
+				margin-top: 25px;
+				margin-left: auto;
+				margin-right: auto;
+                                margin-bottom: auto;
+				background-color: white;
+                                border: 1px solid black;
+                                box-shadow: 0px 0px 10px black;
+                                
+			}
+                        
+                       
+                        
+                        a{
+                        color: black;
+                        }
+                        
+                        a:hover {
+                        color: grey;
+                        text-decoration: none;
+
+                        }

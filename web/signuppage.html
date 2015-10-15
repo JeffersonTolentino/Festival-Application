@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!--
+Nathan Ryan x13448212 BSHC2A 
+-->
+<html>
+    <head>
+        <title>Email Signup</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script>
+            var XHRObject = false;
+            if (window.XMLHttpRequest){
+                XHRObject = new XMLHttpRequest();
+            } else if (window.ActiveXObject){
+                XHRObject = new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            
+            function button(divID){
+                if(XHRObject){
+                    var obj = document.getElementByID(divID);
+                    XHRObject.open("GET", "signup.jsp");
+                    XHRObject.onreadystatechange = function()
+                    {
+                        if (XHRObject.readyState == 4 && XHRObject.status == 200){
+                            obj.innerHTML = XHRObject.responseText;
+                        }
+                    }
+                    XHRObject.send(null);
+                }
+            }
+            
+            
+            
+        </script>
+    </head>
+    <body>
+        <center>
+            <h1> Sign up to our Newsletter ! </h1>
+            <form action="signup.jsp" method="GET">
+            First Name: <input type="text" name="fname">
+            <br />
+            Last Name: <input type="text" name="lname" />
+            <br />
+            Email: <input type="text" name="email" />
+            <br />
+            <input type="submit" value="Submit" />
+            </form>
+            <form action="home">
+        <h1>Return Home :</h1>
+        <center><input type="Submit" value ="Home"></center>
+        </form>
+        </center>    
+    </body>
+</html>
+
