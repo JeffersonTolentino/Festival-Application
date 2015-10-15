@@ -96,7 +96,7 @@
                         <a href="setlists"><img src="setlist.jpg"/></a>
                         
                         </div>
-                        <h2><a href="signuppage.html">Signup up to our Email newsletter !</a></h2><br/><hr/>
+                        <h2><a href="signuppage.html" style="color: white;">Signup up to our Email newsletter !</a></h2><br/><hr/>
                     <xsl:apply-templates select="*"/>
                 </center>
             </body>

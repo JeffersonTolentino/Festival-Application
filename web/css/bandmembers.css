@@ -11,12 +11,15 @@
 			img{
 				width: 200px;
 				height: 250px;
+                                box-shadow: 0px 0px 3px grey;
                         
 			}
                         
-                        img[src*="logo.jpg"] {
+                        img[src*="logoblack.jpg"] {
                          width: 200px;
                          height: 150px;
+                         box-shadow: 0px 0px 0px white;
+                         
 }
                         
                        
@@ -26,7 +29,8 @@
                         
                         
                         a:link {
-                        color: black;
+                        color: white;
+                         text-decoration: none;
                         }
                         
                         a:hover {

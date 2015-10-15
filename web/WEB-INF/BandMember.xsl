@@ -38,6 +38,7 @@
 			      <b>Origin:</b>
 			      <b><xsl:value-of select="./origin"/></b>
 			      <br/>
+                             
 			      <xsl:element name="img">
 				  <xsl:attribute name="src"><xsl:value-of select="./image"/></xsl:attribute>
 			      </xsl:element>

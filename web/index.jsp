@@ -18,6 +18,9 @@
         <center><img src="mainstage.jpg" /></center>
         <center><input type="Submit" value ="Enter"></center>
         </form>
+        <center>
+        <h1>Friday July 10 - Sunday July 12 2015</h1>
+    </center>
     <center>
         <h1><script>document.write(daysLeft);</script> Days Until The Festival !</h1>
     </center>

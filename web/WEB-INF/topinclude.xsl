@@ -21,7 +21,7 @@
                 <img src="logoblack.jpg" width = "100" height = "100"/>
               	<h1>The Festival Site</h1><hr/>
              
-                <a href="home" style="color:white;">Home</a> // <a href="lineup" style="color:white;">Lineup</a> // <a href="bands" style="color:white;">Bands</a> // <a href="setlists" style="color:white;">Setlists</a>
+                <p style="color: white;"><a href="home" style="color:white;">Home</a> // <a href="lineup" style="color:white;">Lineup</a> // <a href="bands" style="color:white;">Bands</a> // <a href="setlists" style="color:white;">Setlists</a></p>
                 <hr/>
                 <p>Change font size</p>
                 <font size="2"><a href="javascript:void(0);" onclick="changemysize(16);" style="color:white;">A</a></font>
